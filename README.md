@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Darsh Joshi</h1>
+- 🔭 I’m currently working on **AI-Enabled Phishing Plugin detection**
 
-<!--
-**precendent/precendent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning for **CEH V12 practical exam**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **darshdjoshi7@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [file:///C:/Users/joshi/Downloads/resume%20(1)-1.html](file:///C:/Users/joshi/Downloads/resume%20(1)-1.html)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
