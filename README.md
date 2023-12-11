@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **darshdjoshi7@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/joshi/Downloads/resume%20(1)-1.html](file:///C:/Users/joshi/Downloads/resume%20(1)-1.html)
+- 📄 Know about my experiences [Click here](file:///C:/Users/joshi/Downloads/resume%20(1)-1.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
