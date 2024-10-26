@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning for **CEH V12 practical exam**
 
+- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=884150" style='border:none;'></iframe>
+
 - 📫 How to reach me **darshdjoshi7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
